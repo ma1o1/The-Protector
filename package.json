@@ -1,0 +1,21 @@
+
+
+{
+  "scripts": {
+  "start": "app.js"
+},
+
+
+  "name": "fall-alert",
+  "version": "0.0.0",
+  "description": "Server for fall alert",
+  "main": "app.js",
+  "repository": "",
+  "author": "4 potatoes on a raft <matevz.peternel@yahoo.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+  
+}
