@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Protector</string>
+    <string name="edit_message">Enter a username</string>
+    <string name="button_send">Check if OK! </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
